@@ -2,75 +2,90 @@
 
 <img src="./assets/header.svg" alt="Rifki Rivera - Fullstack Developer" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=3500&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&height=50&lines=Building+interactive+%26+scalable+web+apps;Clean+code.+Seamless+UI%2FUX.;Code+with+purpose%2C+design+with+passion" alt="Typing SVG" />
-
-<br/>
+<h3>Fullstack Developer | Crafting Web Experiences with Modern Frameworks</h3>
 
 <a href="https://linkedin.com/in/rifki-ahmad-rivera-ba5b55269"><img src="https://img.shields.io/badge/LINKEDIN-00F0FF?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0b1026" alt="LinkedIn" /></a>
 <a href="mailto:rifkiahmadrivera07@gmail.com"><img src="https://img.shields.io/badge/EMAIL-FF2BD6?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0b1026" alt="Email" /></a>
 <a href="https://github.com/RifkiRivera"><img src="https://img.shields.io/badge/GITHUB-8A5CFF?style=for-the-badge&logo=github&logoColor=black&labelColor=0b1026" alt="GitHub" /></a>
-<img src="https://komarev.com/ghpvc/?username=RifkiRivera&label=VIEWS&color=00f0ff&style=for-the-badge&labelColor=0b1026" alt="Profile views" />
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="divider" />
+---
 
-## ⚡ // ABOUT_ME
+### 🚀 About Me
 
-```text
-> user       : Rifki Rivera
-> role       : Fullstack Developer
-> mission    : Build interactive, scalable, user-focused web apps
-> focus      : Seamless UI/UX + efficient backend logic
-> status     : Always exploring new tech and best practices
-```
+💡 Passionate about building interactive, scalable, and user-focused web applications.  
+🧠 Always exploring new tech and best practices for clean, maintainable code.  
+🎯 Focused on crafting seamless UI/UX and efficient backend logic.
 
-<img src="./assets/divider.svg" width="100%" alt="divider" />
+---
 
-## 🧬 // TECH_STACK
+### 🧠 Languages
 
-<div align="center">
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
 
-**LANGUAGES**<br/>
-<img src="https://skillicons.dev/icons?i=js,ts,php,python&theme=dark" alt="Languages" />
+---
 
-**FRONTEND**<br/>
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind&theme=dark" alt="Frontend" />
+### 🛠️ Tech Stack
 
-**BACKEND**<br/>
-<img src="https://skillicons.dev/icons?i=django,laravel,nestjs&theme=dark" alt="Backend" />
+#### 💻 Frontend
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+</p>
 
-**DATABASE**<br/>
-<img src="https://skillicons.dev/icons?i=mysql,firebase&theme=dark" alt="Database" />
+#### ⚙️ Backend
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+</p>
 
-**TOOLS**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode&theme=dark" alt="Tools" />
+#### 🧩 Tools & Workflow
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
 
-</div>
+---
 
-<img src="./assets/divider.svg" width="100%" alt="divider" />
+### 💡 IDE & Database
 
-## 📡 // GITHUB_STATS
+<p>
+  <img src="https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+</p>
 
-<div align="center">
+---
 
-<img src="https://streak-stats.demolab.com/?user=RifkiRivera&theme=radical&hide_border=true&background=0B1026&ring=00F0FF&fire=FF2BD6&currStreakLabel=00F0FF" alt="GitHub Streak" />
+### 📈 GitHub Stats
 
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=RifkiRivera&theme=radical&hide_border=true&background=0B1026&ring=00F0FF&fire=FF2BD6&currStreakLabel=00F0FF" alt="GitHub Streak" />
+</p>
 
 <!--
-Aktifkan setelah GitHub Action "Generate Snake" selesai jalan
-(tab Actions -> Generate Snake -> Run workflow), lalu hapus tanda komentar ini:
+Kalau sudah deploy github-readme-stats sendiri di Vercel,
+hapus tanda komentar ini dan ganti GANTI-DOMAIN-KAMU:
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/RifkiRivera/RifkiRivera/output/github-snake-dark.svg" alt="Snake animation" width="100%" />
-</div>
+<p align="center">
+  <img height="170" src="https://GANTI-DOMAIN-KAMU.vercel.app/api?username=RifkiRivera&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img height="170" src="https://GANTI-DOMAIN-KAMU.vercel.app/api/top-langs/?username=RifkiRivera&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 -->
 
-<img src="./assets/divider.svg" width="100%" alt="divider" />
+---
 
 <div align="center">
 
-**`> Code with purpose, design with passion._`**
+⭐ **“Code with purpose, design with passion.”**
 
 </div>
