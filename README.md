@@ -2,17 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=3500&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&height=50&lines=Building+interactive+%26+scalable+web+apps;Clean+code.+Seamless+UI%2FUX.;Code+with+purpose%2C+design+with+passion" alt="Typing SVG" />
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=RifkiRivera&label=Profile+Views&color=38B2AC&style=for-the-badge" alt="Profile views" />
-
-<a href="https://linkedin.com/in/rifki-ahmad-rivera-ba5b55269"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:rifkiahmadrivera07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/RifkiRivera"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-
-</div>
-
-
 </div>
 
 <img src="./assets/divider.svg" width="100%" alt="divider" />
@@ -26,34 +15,32 @@ I'm a **Fullstack Developer** who enjoys turning ideas into fast, scalable, and 
 - ⚙️ Building efficient, reliable logic on the backend
 - 🌱 Currently sharpening my skills with modern frameworks
 
----
-
 <img src="./assets/divider.svg" width="100%" alt="divider" />
 
-## 🧬 TECH_STACK
+## 🧬 Tech Stack
 
 <div align="left">
 
-**LANGUAGES**<br/>
+**Languages**<br/>
 <img src="https://skillicons.dev/icons?i=js,ts,php,python&theme=dark" alt="Languages" />
 
-**FRONTEND**<br/>
+**Frontend**<br/>
 <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind&theme=dark" alt="Frontend" />
 
-**BACKEND**<br/>
+**Backend**<br/>
 <img src="https://skillicons.dev/icons?i=django,laravel,nestjs&theme=dark" alt="Backend" />
 
-**DATABASE**<br/>
+**Database**<br/>
 <img src="https://skillicons.dev/icons?i=mysql,firebase&theme=dark" alt="Database" />
 
-**TOOLS**<br/>
+**Tools**<br/>
 <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode&theme=dark" alt="Tools" />
 
 </div>
 
 <img src="./assets/divider.svg" width="100%" alt="divider" />
 
-## 📡 GITHUB_STATS
+## 📡 GitHub Stats
 
 <div align="center">
 
@@ -69,6 +56,20 @@ Aktifkan setelah GitHub Action "Generate Snake" selesai jalan
   <img src="https://raw.githubusercontent.com/RifkiRivera/RifkiRivera/output/github-snake-dark.svg" alt="Snake animation" width="100%" />
 </div>
 -->
+
+<img src="./assets/divider.svg" width="100%" alt="divider" />
+
+## 📬 Contact
+
+Open to collaboration, projects, and good conversations about web development. Feel free to reach out!
+
+<div align="center">
+
+<a href="https://linkedin.com/in/rifki-ahmad-rivera-ba5b55269"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:rifkiahmadrivera07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/RifkiRivera"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+</div>
 
 <img src="./assets/divider.svg" width="100%" alt="divider" />
 
