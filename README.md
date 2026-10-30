@@ -4,28 +4,33 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/rifki-ahmad-rivera-ba5b55269"><img src="https://img.shields.io/badge/LINKEDIN-00F0FF?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0b1026" alt="LinkedIn" /></a>
-<a href="mailto:rifkiahmadrivera07@gmail.com"><img src="https://img.shields.io/badge/EMAIL-FF2BD6?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0b1026" alt="Email" /></a>
-<a href="https://github.com/RifkiRivera"><img src="https://img.shields.io/badge/GITHUB-8A5CFF?style=for-the-badge&logo=github&logoColor=black&labelColor=0b1026" alt="GitHub" /></a>
-<img src="https://komarev.com/ghpvc/?username=RifkiRivera&label=VIEWS&color=00f0ff&style=for-the-badge&labelColor=0b1026" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=RifkiRivera&label=Profile+Views&color=38B2AC&style=for-the-badge" alt="Profile views" />
+
+<a href="https://linkedin.com/in/rifki-ahmad-rivera-ba5b55269"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:rifkiahmadrivera07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/RifkiRivera"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+</div>
+
 
 </div>
 
 <img src="./assets/divider.svg" width="100%" alt="divider" />
 
-## ⚡ // ABOUT_ME
+## 👨‍💻 About Me
 
-```text
-> user       : Rifki Rivera
-> role       : Fullstack Developer
-> mission    : Build interactive, scalable, user-focused web apps
-> focus      : Seamless UI/UX + efficient backend logic
-> status     : Always exploring new tech and best practices
-```
+I'm a **Fullstack Developer** who enjoys turning ideas into fast, scalable, and user-friendly web applications.
+
+- 🧠 Always exploring new tech and best practices for clean, maintainable code
+- 🎨 Focused on seamless UI/UX on the frontend
+- ⚙️ Building efficient, reliable logic on the backend
+- 🌱 Currently sharpening my skills with modern frameworks
+
+---
 
 <img src="./assets/divider.svg" width="100%" alt="divider" />
 
-## 🧬 // TECH_STACK
+## 🧬 TECH_STACK
 
 <div align="center">
 
@@ -48,7 +53,7 @@
 
 <img src="./assets/divider.svg" width="100%" alt="divider" />
 
-## 📡 // GITHUB_STATS
+## 📡 GITHUB_STATS
 
 <div align="center">
 
