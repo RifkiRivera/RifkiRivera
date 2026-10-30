@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="Rifki Rivera - Fullstack Developer" width="100%" />
-
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=3500&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&height=50&lines=Building+interactive+%26+scalable+web+apps;Clean+code.+Seamless+UI%2FUX.;Code+with+purpose%2C+design+with+passion" alt="Typing SVG" />
 
 <br/>
