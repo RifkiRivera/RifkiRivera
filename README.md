@@ -32,7 +32,7 @@ I'm a **Fullstack Developer** who enjoys turning ideas into fast, scalable, and 
 
 ## 🧬 TECH_STACK
 
-<div align="center">
+<div align="left">
 
 **LANGUAGES**<br/>
 <img src="https://skillicons.dev/icons?i=js,ts,php,python&theme=dark" alt="Languages" />
