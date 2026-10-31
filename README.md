@@ -46,9 +46,6 @@ I'm a **Fullstack Developer** who enjoys turning ideas into fast, scalable, and 
 
 <img src="https://streak-stats.demolab.com/?user=RifkiRivera&theme=radical&hide_border=true&background=0B1026&ring=00F0FF&fire=FF2BD6&currStreakLabel=00F0FF" alt="GitHub Streak" />
 
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RifkiRivera&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0B1026&title_color=00F0FF&text_color=FFFFFF" alt="Most Used Languages" />
 
 </div>
 
