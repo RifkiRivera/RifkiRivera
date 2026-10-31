@@ -45,7 +45,7 @@ I'm a **Fullstack Developer** who enjoys turning ideas into fast, scalable, and 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=RifkiRivera&theme=radical&hide_border=true&background=0B1026&ring=00F0FF&fire=FF2BD6&currStreakLabel=00F0FF" alt="GitHub Streak" />
-
+</br>
 
 </div>
 
